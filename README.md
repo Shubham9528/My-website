@@ -53,13 +53,11 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the #.
 
 ---
 
 🌐 Connect with me:
-- [Twitter](https://twitter.com/your-twitter)
-- [Instagram](https://instagram.com/your-instagram)
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [LinkedIn](inkedin.com/in/shubham-shinde25)
 
 © 2023 Shubham. All Rights Reserved.
